@@ -1,0 +1,17 @@
+﻿{
+  "AppInfos": [
+    {
+      "appid": "10954030",
+      "appautor": "gzj",
+      "appdetail": "UC浏览器是优视公司开发的一款免费软件",
+      "appname": "UC浏览器HD",
+      "apppackage": "UCBrowser_V3.4.3.532.apk",
+      "appdownurl": "http://appstore.yttsp.com/LuChangShiChang/app.apk",
+      "applogourl": "http://appstore.yttsp.com/LuChangShiChang/logo.png",
+      "appversion": "1",
+      "imglist": [ "http://appstore.yttsp.com/LuChangShiChang/list1.png" ],
+      "appsize": "1345616451515",
+      "agreement": true
+    }
+  ]
+}
